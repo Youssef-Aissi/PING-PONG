@@ -1,7 +1,5 @@
-# PING-PONG
-
 ---------------Jeux PING PONG-----------------
-# Pong jeux
+# Ping-Pong jeux
 
 C'est un jeux vintage de PING-PONG pour un projet universitaire
 
@@ -16,15 +14,25 @@ Youssef AISSI
 	- Javascript
 	- NodeJS (Socket.io and Express)
 
-#### Features :
+#### Modes :
 
 	- One vs Computer
 	- One vs One
 	- Two vs Two	
 	- Audio effects
+	
+##### Installation :
+
+Utilisez le package manager npm pour installer et demarrer le projet.
+
+	npm init
+	npm install express
+	npm install socket.io
+	
+	node app.js
 
 Etape 1:  
-  - Lancez le serveur.js 
+  - Lancez le app.js 
 
 Etape 2:
   - Connectez vous sur le port 3030
